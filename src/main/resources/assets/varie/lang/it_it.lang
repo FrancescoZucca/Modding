@@ -1,0 +1,12 @@
+item.enderium_pickaxe.name=Piccone di Enderio
+item.enderium_axe.name=Ascia di Enderio
+item.enderium_shovel.name=Pala di Enderio
+item.enderium_hoe.name=Zappa di Enderio
+item.enderium_sword.name=Spada di Enderio
+item.varie.enderium_helmet.name=Casco di Enderio
+item.varie.enderium_chestplate.name=Corazza di Enderio
+item.varie.enderium_leggings.name=Gambali di Enderio
+item.varie.enderium_boots.name=Stivali di Enderio
+item.enderium_ingot.name=Lingotto d'Enderio
+tile.enderium_block.name=Blocco d'Enderio
+tile.enderium_ore.name=Minerale di Enderio

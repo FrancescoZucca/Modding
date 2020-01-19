@@ -1,0 +1,6 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":["xxx","xxx","xxx"],
+  "key":{"x":{"item":"enderium_ingot"}},
+  "result":{"item":"varie:enderium_block", "count":1}
+}

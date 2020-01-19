@@ -1,0 +1,6 @@
+{
+  "type":"minecraft:crafting_shaped",
+  "pattern":[" x "," x "," s "],
+  "key":{"x":{"item":"varie:enderium_ingot"}, "s":{"item":"minecraft:stick"}},
+  "result":{"item":"varie:enderium_sword", "count":1}
+}

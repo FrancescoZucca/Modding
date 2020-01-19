@@ -1,0 +1,16 @@
+[
+{
+  "modid": "varie",
+  "name": "Varie",
+  "description": "Vari blocchi e robe",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Francesco Zucca"],
+  "credits": "ME",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
